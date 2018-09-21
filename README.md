@@ -1,4 +1,4 @@
-# React Template for wuick project set up. 
+# React Template for quick project set up. 
 
 ## Included Technology 
 
