@@ -4,6 +4,7 @@
 
 - React
 - React Router
+- Redux
 - Sass
 - Axios
 
