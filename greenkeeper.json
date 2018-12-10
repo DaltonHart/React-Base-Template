@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "react-project/package.json"
+      ]
+    }
+  }
+}
