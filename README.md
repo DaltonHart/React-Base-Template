@@ -1,5 +1,7 @@
 # React Template for quick project set up. 
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/DaltonHart/React-Base-Template.svg)](https://greenkeeper.io/)
+
 ## Included Technology 
 
 - React
